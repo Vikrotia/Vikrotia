@@ -18,6 +18,8 @@
 
 
 **About Me:**
+
+
 - 🏛 I graduated from **NSTU. R.E. Alekseeva**.
 - 💻 Major is **Computer Science and Engineering**.
 - 📄 I'm currently learning **Data Science**. 
