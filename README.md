@@ -22,3 +22,6 @@
 - 🏛 I graduated from **NSTU. R.E. Alekseeva**.
 - 💻 Major is **Computer Science and Engineering**.
 - 📄 I'm currently learning **Data Science**. 
+
+**Languages and Tools:**  
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
