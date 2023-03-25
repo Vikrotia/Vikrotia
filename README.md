@@ -1,5 +1,5 @@
 ### Hi, I'm Vikrotia! &nbsp;&nbsp;<sup> I am a beginner programmer. Welcome to my page!</sup>
 
 <a href="https://t.me/utheryde">
-  <img align="left" alt="Medium" width="22px" src="https://img2.freepng.ru/20180715/afz/kisspng-computer-icons-telegram-logo-5b4bb35b8b3a97.7981817315316877715703.jpg" />
+  <img align="left" alt="Medium" width="22px" src="https://sun6-23.userapi.com/s/v1/ig2/BOxAxfraO7GVdh4RHcmT0bM5AKVQnPOWbLoXv_UGMAns-2H9aqhIuE9kFuvFcFA0w0zDAaVC4WJmzkRLyVW9t7Ni.jpg?size=2000x2000&quality=96&crop=0,0,2000,2000&ava=1" />
 </a>
