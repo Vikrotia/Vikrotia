@@ -57,7 +57,6 @@
 <br />
 <br />
 
-
 **Completed courses:**
 
 | Courses                                                                     | Info              |
