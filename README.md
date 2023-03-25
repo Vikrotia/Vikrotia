@@ -1,10 +1,10 @@
 ### Hi, I'm Vikrotia! &nbsp;&nbsp;<sup> I am a beginner programmer. Welcome to my page!</sup>
 
 <a href="https://t.me/utheryde">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/87/87413.png" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968940.png" />
 </a>
 <a href="https://instagram.com/vvikiaki">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968915.png" />
 </a>
 <a href="https://stepik.org/users/513130502">
   <img align="left" alt="Stepik" width="22px" src="https://freepngimg.com/download/letter/130174-s-letter-png-download-free.png" />
