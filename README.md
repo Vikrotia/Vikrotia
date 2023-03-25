@@ -24,4 +24,4 @@
 - 📄 I'm currently learning **Data Science**. 
 
 **Languages and Tools:**  
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTm3L-shhjaNZ31msDJfxybJdQP_aR3268D8s7acCG4BsP-3-Y8lWDP4yOf7jaHIBFlA&usqp=CAU"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180515/bkw/kisspng-computer-icons-python-5afac9ee46b749.8768191615263851342897.jpg"></code>
