@@ -31,7 +31,6 @@
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969370.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969047.png"></code>
-<code><img height="30" src="https://icons-for-free.com/iconfiles/ico/128/pycharm-1324440218718168854.ico"></code>
 
 
 
