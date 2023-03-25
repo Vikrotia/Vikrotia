@@ -35,3 +35,12 @@
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969370.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969047.png"></code>
 
+
+**My projects:**
+
+
+| Name | Description | Tools |
+| --- | --- | --- |
+| [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | This project includes the creation of a telegram bot that searches for anime based on a screenshot from an anime. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
+| [S21_CoreProgram](https://github.com/Vikrotia/S21_CoreProgram) | This repository represents the work that was done as part of School 21 from Sberbank. | C, Bash, Makefile |
+| [S21_DataScience_BootCamp](https://github.com/Vikrotia/S21_DataScience_BootCamp) | The repository contains tasks performed as part of the intensive course on DS| Python, Jupyter Notebook, Matplotlib, Pyplot |
