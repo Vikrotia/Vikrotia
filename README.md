@@ -13,9 +13,8 @@
   <img align="left" alt="School21" width="22px" src="https://applicant.21-school.ru/7ef355add9eab8468c0818d6306cbbb8.webp" />
 </a>
 
-
-
-
+<br />
+<br />
 
 **About Me:**
 
