@@ -19,10 +19,10 @@
 **About Me:**
 
 
-- 🏛 I graduated from **NSTU. R.E. Alekseeva**.
-- 💻 Major is **Computer Science and Engineering**.
-- ⌨ I'm currently a student of **School 21** from Sberbank.
-- 📄 I'm interested in **Data Science**. 
+- 🏛 graduated from **NSTU. R.E. Alekseeva**.
+- 💻 major is **Computer Science and Engineering**.
+- ⌨ currently a student of **School 21** from Sberbank.
+- 📄 interested in **Data Science**. 
 
 
 <br />
