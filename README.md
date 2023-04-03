@@ -52,6 +52,7 @@
 | [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | This project includes the creation of a telegram bot that searches for anime based on a screenshot from an anime. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
 | [S21_CoreProgram](https://github.com/Vikrotia/S21_CoreProgram) | This repository represents the work that was done as part of School 21 from Sberbank. | C, Bash, Makefile |
 | [S21_DataScience_BootCamp](https://github.com/Vikrotia/S21_DataScience_BootCamp) | The repository contains tasks performed as part of the intensive course on DS| Python, Jupyter Notebook, Matplotlib, Pyplot |
+| [s21_SmartCalc](https://github.com/Vikrotia/s21_SmartCalc) | This repository contains an implementation of a calculator application using Polish notation and QT as a framework.| C, C++, Makefile, QT |
 
 
 <br />
