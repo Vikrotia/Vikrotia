@@ -50,9 +50,10 @@
 | Name | Description | Tools |
 | --- | --- | --- |
 | [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | This project includes the creation of a telegram bot that searches for anime based on a screenshot from an anime. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
-| [S21_DataScience_BootCamp](https://github.com/Vikrotia/S21_DataScience_BootCamp) | The repository contains tasks performed as part of the intensive course on DS| Python, Jupyter Notebook, Matplotlib, Pyplot |
+| [Smart_Calculator_v2](https://github.com/Vikrotia/Smart_Calculator_v2) | The repository contains tasks performed as part of the intensive course on DS| C++, Makefile, QT |In this project i implemented an extended version of the standard calculator in C++ in the oop paradigm. 
 | [Smart_Calculator](https://github.com/Vikrotia/Smart_Calculator) | This repository contains an implementation of a calculator application using Polish notation and QT as a framework.| C, C++, Makefile, QT |
-| [SQL_BootCamp](https://github.com/Vikrotia/SQL_Bootcamp) | This repository contains the implementation of the assignments made as part of the SQL intensive at school 21| SQL, Postgres, psql |
+| [3DViewer](https://github.com/Vikrotia/3DViewer) |The implementation of 3DViewer program with basic functions. | С++, OpenGL, QT |
+| [containers_h](https://github.com/Vikrotia/containers_h) | This repository contains an implementation of basic standard C++ container classes: map, queue, set.  | С++, Makefile |
 
 
 <br />
