@@ -1,4 +1,4 @@
-### Hi, I'm Vikrotia! &nbsp;&nbsp;<sup> I am a beginner programmer. Welcome to my page!</sup>
+### Hi, I'm Vikrotia!
 
 <a href="https://t.me/utheryde">
   <img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968940.png" />
