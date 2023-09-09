@@ -50,10 +50,11 @@
 | Name | Description | Tools |
 | --- | --- | --- |
 | [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | This project includes the creation of a telegram bot that searches for anime based on a screenshot from an anime. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
-| [Smart_Calculator_v2](https://github.com/Vikrotia/Smart_Calculator_v2) | The repository contains tasks performed as part of the intensive course on DS| C++, Makefile, QT |In this project i implemented an extended version of the standard calculator in C++ in the oop paradigm. 
-| [Smart_Calculator](https://github.com/Vikrotia/Smart_Calculator) | This repository contains an implementation of a calculator application using Polish notation and QT as a framework.| C, C++, Makefile, QT |
-| [3DViewer](https://github.com/Vikrotia/3DViewer) |The implementation of 3DViewer program with basic functions. | С++, OpenGL, QT |
-| [containers_h](https://github.com/Vikrotia/containers_h) | This repository contains an implementation of basic standard C++ container classes: map, queue, set.  | С++, Makefile |
+| [Smart_Calculator_v2](https://github.com/Vikrotia/Smart_Calculator_v2) | Продвинутая версия калькулятора, которая обеспечивает вычисление арифметических выражений, математических функций, а также предоставляет функциональность кредитного калькулятора и построения графиков функций.
+| C++, Makefile, QT |
+| [3DViewer](https://github.com/Vikrotia/3DViewer) |Приложение,позволяющее загружать и визуализировать 3D модели в каркасном виде. Программа обладает широкими возможностями для работы с моделями, включая перемещение, вращение и масштабирование.
+ | С++, OpenGL, QT |
+| [containers_h](https://github.com/Vikrotia/containers_h) |Библиотека, реализующая стандартные контейнерные классы map (словарь), queue (очередь) и set (множество)) языка C++ с добавлением нескольких дополнительных функций.| С++, Makefile |
 
 
 <br />
