@@ -40,7 +40,7 @@
 **Мои проекты:**
 
 
-| Name | Description | Tools |
+| Название | Описание | Инструменты |
 | --- | --- | --- |
 | [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | Telegram бот для поиска аниме на основе скриншотов из анимационных фильмов и сериалов. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
 | [Smart_Calculator_v2](https://github.com/Vikrotia/Smart_Calculator_v2) | Продвинутая версия калькулятора, которая обеспечивает вычисление арифметических выражений, математических функций, а также предоставляет функциональность кредитного калькулятора и построения графиков функций.| C++, Makefile, QT, qcustomplot |
