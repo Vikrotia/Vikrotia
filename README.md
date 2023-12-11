@@ -21,7 +21,7 @@
 
 **Стек технологий:**  
 
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/128/3291/3291669.png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=96&id=13679&format=png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968187.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969124.png"></code>
