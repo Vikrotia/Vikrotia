@@ -27,10 +27,10 @@
 <code><img height="30" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo-thumbnail.png">Spring</code>
 <code><img height="30" src="https://play-lh.googleusercontent.com/Gwj_E5u_VCKXCM2JuedvsOnTN4REq_m68RKB6NQM5X4kT6mpHrqHP27uoRp6B7QX-3w=w240-h480-rw">Hibernate</code>
 <code><img height="30" src="https://img.icons8.com/?size=128&id=46565&format=png">Git</code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969047.png"></code>
-
-
-
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocmvJXn62ZNJMINjHiRjiR5nhlLhEE-zH4CEfcIWq8h8Y_9NAWBvH0gs9dA&s">C</code>
+<code><img height="30" src="https://img.icons8.com/?size=96&id=40669&format=png">C++</code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/159/PNG/256/qtproject_qtcreator_qt_22392.png">QT</code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjbUQah3HBhT28PegjApvbdopnOut7fiHCmjrk_-Gdhg6Ic794Cbm_zdnJSG4mntX7c8&usqp=CAU">Python</code>
 
 <br />
 <br />
