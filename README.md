@@ -40,6 +40,7 @@
 
 | Название | Описание | Инструменты |
 | --- | --- | --- |
+| [MangaLibrary](https://github.com/Vikrotia/MangaLibrary) | Веб-приложение для управления мангами (японские комиксы), пользователями и заказами. Приложение позволяет добавлять, просматривать, редактировать и удалять манги, пользователей и заказы. | Java, Spring Framework, Thymeleaf, HTML/CSS, PostgreSQL|
 | [PleaseFindAnimeDesuBot](https://github.com/Vikrotia/PleaseFindAnimeDesuBot) | Telegram бот для поиска аниме на основе скриншотов из анимационных фильмов и сериалов. | Python, Aiogram, Requests, BeautifulSoup, Urllib|
 | [Smart_Calculator_v2](https://github.com/Vikrotia/Smart_Calculator_v2) | Продвинутая версия калькулятора, которая обеспечивает вычисление арифметических выражений, математических функций, а также предоставляет функциональность кредитного калькулятора и построения графиков функций.| C++, Makefile, QT, qcustomplot |
 | [3DViewer](https://github.com/Vikrotia/3DViewer) |Приложение,позволяющее загружать и визуализировать 3D модели в каркасном виде. Программа обладает широкими возможностями для работы с моделями, включая перемещение, вращение и масштабирование.| С++, OpenGL, QT |
