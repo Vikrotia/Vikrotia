@@ -21,17 +21,14 @@
 
 **Стек технологий:**  
 
-<code><img height="30" src="https://img.icons8.com/?size=96&id=13679&format=png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968187.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969124.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968336.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969370.png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=96&id=13679&format=png">Java</code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-C5-izrsJeRUD_-WwfaDB11FCDhmjFwoP_UhaA0E9GJVDDxYW6yZ1VpVN32sYMmXAJY&usqp=CAU">Maven</code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png">JUnit</code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo-thumbnail.png">Spring</code>
+<code><img height="30" src="https://play-lh.googleusercontent.com/Gwj_E5u_VCKXCM2JuedvsOnTN4REq_m68RKB6NQM5X4kT6mpHrqHP27uoRp6B7QX-3w=w240-h480-rw">Hibernate</code>
+<code><img height="30" src="https://img.icons8.com/?size=128&id=46565&format=png">Git</code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969047.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969335.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/9811/9811407.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968277.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png"></code>
+
 
 
 
